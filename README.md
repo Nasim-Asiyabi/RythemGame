@@ -1,4 +1,4 @@
-# 🎵 Rhythm Master
+# 🎵 Rhythm Game
 
 ![Pygame](https://img.shields.io/badge/Pygame-2.0+-green)     
 ![Python](https://img.shields.io/badge/Python-3.6+-blue)     
@@ -67,8 +67,8 @@ A **4-lane rhythm game** built with Python and Pygame where you test your reflex
 ### Quick Start
 ```bash
 # 1. Clone the repository
-git clone https://github.com/Nasim-Asiyabi/rhythm-master.git
-cd rhythm-master
+git remote add origin https://github.com/Nasim-Asiyabi/RythemGame.git
+cd RythemGame
 
 # 2. Install Pygame
 pip install pygame
