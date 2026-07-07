@@ -8,7 +8,6 @@ A **4-lane rhythm game** built with Python and Pygame where you test your reflex
 
 ## 🎮 Gameplay Preview
 
-![Gameplay Screenshot](https://via.placeholder.com/810x620/1a1a2e/ffffff?text=Rhythm+Master+Preview)
 
 - **4 lanes** with notes falling from the top
 - **Hit notes** by pressing `D`, `F`, `J`, `K` at the perfect time
