@@ -2,15 +2,14 @@
 ```markdown
 # 🎵 Rhythm Master
 
-![Pygame](https://img.shields.io/badge/Pygame-2.0+-green)
-![Python](https://img.shields.io/badge/Python-3.6+-blue)
-![License](https://img.shields.io/badge/License-MIT-yellow)
+![Pygame](https://img.shields.io/badge/Pygame-2.0+-green)     
+![Python](https://img.shields.io/badge/Python-3.6+-blue)     
+![License](https://img.shields.io/badge/License-MIT-yellow)  
 
 A **4-lane rhythm game** built with Python and Pygame where you test your reflexes by hitting notes in time with the rhythm.
 
 ## 🎮 Gameplay Preview
 
-![Gameplay Screenshot](https://via.placeholder.com/810x620/1a1a2e/ffffff?text=Rhythm+Master+Preview)
 
 - **4 lanes** with notes falling from the top
 - **Hit notes** by pressing `D`, `F`, `J`, `K` at the perfect time
